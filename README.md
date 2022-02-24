@@ -1,2 +1,2 @@
 # OOP basics and principles
-# Includes exercises solved in C++
+Includes exercises solved in C++
